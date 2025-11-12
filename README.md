@@ -1,4 +1,5 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Nicolas-Granato&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicolas-Granato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" height="150" alt="languages graph"  />
 
 ### Olá, meu nome é Nícolas!
 
