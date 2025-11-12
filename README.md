@@ -1,6 +1,6 @@
-<h1 align="left">Olá, meu nome é Nícolas</h1>
-<p aling="left">Eu sou um estudante de Sistemas de Informação da UFJF\nE sou voluntário do projeto de extensão Escola de Games</p>
-
+<h2 align="left">Olá, meu nome é Nícolas</h2>
+<p aling="left">Eu sou um estudante de Sistemas de Informação da UFJF</p>
+<p aling="left">E sou voluntário do projeto de extensão Escola de Games</p>
 ###
 
 <div align="center">
