@@ -1,4 +1,4 @@
-###Olá, meu nome é Nícolas
+### Olá, meu nome é Nícolas
 <p aling="left">Eu sou um estudante de Sistemas de Informação da UFJF <br/> e voluntário do projeto de extensão Escola de Games</p>
 
 ###
