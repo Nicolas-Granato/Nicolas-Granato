@@ -1,5 +1,5 @@
 <h3 align="left">Olá, meu nome é Nícolas!</h3>
-<p align="left">Sou um estudante de Sistemas de Informação na Universidade Federal de Juiz de Fora e voluntário do projeto de extensão Escola de Games UFJF</p>
+<p align="left">Sou um estudante de Sistemas de Informação na Universidade Federal de Juiz de Fora</br>e voluntário do projeto de extensão Escola de Games UFJF</p>
 
 ###
 
