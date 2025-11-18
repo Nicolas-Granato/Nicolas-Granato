@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome é Nícolas!</h1>
+<h2 align="center">Olá, meu nome é Nícolas!</h2>
 
 <h3 align="center">Bacharelado em Sistemas de Informação</h3>
 
