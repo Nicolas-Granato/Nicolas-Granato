@@ -7,12 +7,7 @@
 ---
 
 <h2>👨🏻‍💻About me:</h2>
-<p>I am currently attending the first semester of Information Systems (UFJF). I am also participating as a volunteer in the extension project Escola de Games UFJF🎮, where I teach initial concepts of the computing area to elementary school students from public schools.</p>
-<p>In addition, I am studying to become a back-end developer, using my main projects as means of study:</br>
-
-- ACS (Python): A management system for veterinary clinics. (IN DEVELOPMENT)</br>
-
-- HackatonRerum (Python): A system for transforming ad hoc forms into DDL and returning the results in common language, through a local AI. (IN DEVELOPMENT)</p>
+<p>I am currently attending the first semester of Information Systems at the Federal University of Juiz de Fora (UFJF). Dedicated to the democratization and inclusion of computing education, I volunteer with the extension project 'Escola de Games UFJF' 🎮. In this role, I develop and conduct workshops on fundamental computing concepts for public elementary school students. Additionally, I teach a Python programming course specifically designed to support female undergraduates at the university.</p>
 
 ---
 
@@ -32,6 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="7" />
 </div>
 
 <br>
@@ -43,11 +39,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
 height="30" alt="github logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"          height="30" alt="latex logo"  />
-  <img width="7" />
+    <img width="7" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="7" />
+    <img width="7" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
-
+    <img width="7" />
 </div>
 
 ---
