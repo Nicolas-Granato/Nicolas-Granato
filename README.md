@@ -7,7 +7,7 @@
 ---
 
 <h2>👨🏻‍💻About me:</h2>
-<p>I am currently attending the first semester of Information Systems at the Federal University of Juiz de Fora (UFJF). Dedicated to the democratization and inclusion of computing education, I volunteer with the extension project 'Escola de Games UFJF' 🎮. In this role, I develop and conduct workshops on fundamental computing concepts for public elementary school students. Additionally, I teach a Python programming course specifically designed to support female undergraduates at the university.</p>
+<p>I am passionate about building robust, secure, and scalable applications. Currently, I focus on the Back-End ecosystem using Node.js and Python, always striving to apply architecture best practices and standards like *Clean Code*. Beyond software development, I have a strong interest in tech education, having worked with university outreach projects and published research papers in the computing field.</p>
 
 ---
 
@@ -20,8 +20,6 @@
 
 <h2>📚Programming Languages:</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
