@@ -18,7 +18,7 @@
 
 <h2>💻Technologies Stack:</h2>
 
-<h2>📚Programming Languages:</h2>
+<h3>📚Programming Languages:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
   <img width="7" />
@@ -30,7 +30,7 @@
 
 <br>
 
-<h2>🧰Tools and Technologies:</h2>
+<h3>🧰Tools and Technologies:</h3>
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
     <img width="7" />
